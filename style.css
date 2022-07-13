@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+.div_song{
+  float: center;  
+}
+
+#song_name{
+    font-size: 23px;
+    margin: 15px;
+}
+canvas{
+    width: 100%;
+}
